@@ -15,7 +15,7 @@ aspire start
 ```
 
 ## Important Note About Authentication
-This demo project uses a very wrong approach to authentication. Purely just used to demonstrating logging in as a different user to create data.
+Purely just used to demonstrate logging in as a different user to create data. It is not secure.
 
 ## Video Walkthrough
 Prefer watching videos rather than reading the code? Check [this video out](https://www.youtube.com/watch?v=ZA2X1gaAhJk), it's a walkthrough of the solution and explains some concepts / reasoning

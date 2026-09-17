@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Chirper.Api/Chirper.Api.csproj" />
+    <Project Path="src/Chirper.AppHost/Chirper.AppHost.csproj" />
+    <Project Path="src/Chirper.ServiceDefaults/Chirper.ServiceDefaults.csproj" />
+  </Folder>
+</Solution>

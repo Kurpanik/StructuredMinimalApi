@@ -1,5 +1,21 @@
 # Structured Minimal API
-An example on how to structure a minmal API using [Vertical Slice Architecture](https://www.jimmybogard.com/vertical-slice-architecture/)
+An example of structuring a .NET 10 Minimal API using [Vertical Slice Architecture](https://www.jimmybogard.com/vertical-slice-architecture/), orchestrated by Aspire with Scalar API documentation.
+
+## Getting started
+
+Prerequisites:
+- .NET 10 SDK.
+- Aspire CLI 13.5 or later.
+- Docker Desktop running Linux containers (for SQL Server).
+
+From the repository root:
+
+```sh
+aspire start
+```
+
+## Important Note About Authentication
+This demo project uses a very wrong approach to authentication. Purely just used to demonstrating logging in as a different user to create data.
 
 ## Video Walkthrough
 Prefer watching videos rather than reading the code? Check [this video out](https://www.youtube.com/watch?v=ZA2X1gaAhJk), it's a walkthrough of the solution and explains some concepts / reasoning
